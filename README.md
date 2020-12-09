@@ -1,5 +1,6 @@
 # sekulanka.github.io
 <head>
+        <head>
         <title>Świąteczne przepisy</title>
         <meta charset="utf-8">
         <style>
@@ -25,11 +26,11 @@
             font-family: monospace;}
             
         }
-         #bbb
-         {color:rgb(255, 255, 255);
-        background-color:rgb(112, 72, 8);
+         #bar {color:rgb(242, 115, 5);
+        background-color:rgb(201, 134, 32);
             text-align:center;
             font-family:"Courier New", monospace;}
+         
 
         </style>
     </head>
@@ -42,7 +43,7 @@
         
         <ol>
           <li><a href="#pierniki">Pierniki</a></li>
-             <li><a href="#barszcz">Barszcz</a></li>
+             <li><a href="#bbb">Barszcz</a></li>
         </ol>
         
         <h2 id="pierniki">Pierniki</h2>
@@ -86,7 +87,7 @@
     
     
     
-    <h2 id="bbb">Barszcz</h2>
+    <h2 id="bbb"><a id="bar">Barszcz</a></h2>
     <p><img src="https://www.przyslijprzepis.pl/media/cache/default_view/uploads/media/recipe/0007/11/czysty-barszcz-czerwony.jpeg"></p>
         
         <ul>
@@ -136,3 +137,4 @@
         
     <p><em>Źródło: <a href="https://www.kwestiasmaku.com/kuchnia_polska/zupy/barszcz_ukrainski/przepis.html">Kwestia smaku</a></em></p>
     </body>
+</html>
