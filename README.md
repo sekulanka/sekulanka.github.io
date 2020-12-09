@@ -45,8 +45,8 @@
           <li><a href="#pierniki">Pierniki</a></li>
              <li><a href="#bbb">Barszcz</a></li>
         </ol>
-<h2 id="pierniki">Pierniki</h2>
-        <p><img src= "https://malacukierenka.pl/wp-content/uploads/2015/12/pierniczki-najlepsze1.jpg"></p>
+       <h2 id="pierniki">Pierniki</h2>
+          <p><img src= "https://malacukierenka.pl/wp-content/uploads/2015/12/pierniczki-najlepsze1.jpg"></p>
         <ul>
             <li class="potrzebne">Czas: 3 godziny</li>
             <li class="potrzebne"> Naczynia potrzebne: Stolnica, nóż, foremki, </li>
@@ -83,8 +83,10 @@
       
         
     <p><em>Źródło: <a href="https://www.kwestiasmaku.com/desery/ciasteczka/pierniczki/przepis.html">Kwestia smaku</a></em></p>
-<h2 id="bbb"><a id="bar">Barszcz</a></h2>
-    <p><img src="https://www.przyslijprzepis.pl/media/cache/default_view/uploads/media/recipe/0007/11/czysty-barszcz-czerwony.jpeg"></p>
+      
+
+     <h2 id="bbb"><a id="bar">Barszcz</a></h2>
+      <p><img src="https://www.przyslijprzepis.pl/media/cache/default_view/uploads/media/recipe/0007/11/czysty-barszcz-czerwony.jpeg"></p>
         
         <ul>
             <li class="potrzebne">Czas: 6 godzin</li>
