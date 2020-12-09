@@ -63,15 +63,14 @@
       </tr>
       <tr><td>Mąka pszenna</td>
       <td>320 g</td>
-          
       </tr>
-      <tr><td> Miód <td>  <td> 2łyżki <td></tr>
-     <tr><td> Cukier <td> <td> 2/3 szklanki <td></tr>
-     <tr><td> Soda oczyszczona<td><td> 1,5łyżeczki <td></tr>
-     <tr><td> Przyprawa piernikowa <td> 20 g<td></tr>
-     <tr><td>Masło <td> <td> 2 łyżki <td></tr>
-     <tr> <td> Jajka<td> <td> 2 szt.<td></tr>
-     <tr><td>Ciepłe mleko<td> <td> 1/4 </tr>
+      <tr><td> Miód <td>  <td> 2łyżki <td>
+     <tr><td> Cukier <td> <td> 2/3 szklanki </td>
+     <tr><td> Soda oczyszczona<td><td> 1,5łyżeczki </td>
+     <tr><td> Przyprawa piernikowa <td> 20 g<t/d>
+     <tr><td>Masło <td> <td> 2 łyżki </td>
+     <tr> <td> Jajka<td> <td> 2 szt.</td>
+     <tr><td>Ciepłe mleko<td> <td> 1/4 </td></tr>
             </thead>
             <tbody>
             </tbody>
