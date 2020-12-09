@@ -65,13 +65,13 @@
       <td>320 g</td>
           
       </tr>
-      <tr><td> Miód <td> 2 łyżki <td> <td></tr>
+      <tr><td> Miód <td>  <td>2 łyżki <td></tr>
      <tr><td> Cukier <td> 2/3 szklanki<td> <td></tr>
      <tr><td> Soda oczyszczona</td><td> 1,5 łyżeczki <td></tr>
-     <tr><td> Przyprawa piernikowa <td> 20 g<td></tr>
+     <tr><td> Przyprawa piernikowa <td> <td> 20 g<td></tr>
      <tr><td>Masło <td> <td> 2 łyżki <td></tr>
      <tr> <td> Jajka<td> <td> 2 szt.<td></tr>
-     <tr><td>Ciepłe mleko<td> <td> 1/4 </tr>
+     <tr><td>Ciepłe mleko<td> <td> 1/4<td> </tr>
             </thead>
             <tbody>
             </tbody>
