@@ -1,7 +1,5 @@
 # sekulanka.github.io
-<html>
-    <html>
-    <head>
+<head>
         <title>Świąteczne przepisy</title>
         <meta charset="utf-8">
         <style>
@@ -34,7 +32,7 @@
             font-family:"Courier New", monospace;}
 
         </style>
-</head>
+    </head>
     <body>
        
         <h1>Świąteczne przepisy</h1>
@@ -66,9 +64,9 @@
       <td>320 g</td>
           
       </tr>
-      <tr><td> Miód <td> 2 łyżki <td> <td></tr>
-     <tr><td> Cukier <td> 2/3 szklanki<td> <td></tr>
-     <tr><td> Soda oczyszczona</td><td> 1,5 łyżeczki <td></tr>
+      <tr><td> Miód <td>  <td> 2łyżki <td></tr>
+     <tr><td> Cukier <td> <td> 2/3 szklanki <td></tr>
+     <tr><td> Soda oczyszczona<td><td> 1,5łyżeczki <td></tr>
      <tr><td> Przyprawa piernikowa <td> 20 g<td></tr>
      <tr><td>Masło <td> <td> 2 łyżki <td></tr>
      <tr> <td> Jajka<td> <td> 2 szt.<td></tr>
@@ -85,6 +83,9 @@
 </p>
         
     <p><em>Źródło: <a href="https://www.kwestiasmaku.com/desery/ciasteczka/pierniczki/przepis.html">Kwestia smaku</a></em></p>
+    
+    
+    
     <h2 id="bbb">Barszcz</h2>
     <p><img src="https://www.przyslijprzepis.pl/media/cache/default_view/uploads/media/recipe/0007/11/czysty-barszcz-czerwony.jpeg"></p>
         
@@ -135,4 +136,3 @@
         
     <p><em>Źródło: <a href="https://www.kwestiasmaku.com/kuchnia_polska/zupy/barszcz_ukrainski/przepis.html">Kwestia smaku</a></em></p>
     </body>
-</html>
