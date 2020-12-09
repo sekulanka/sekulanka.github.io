@@ -1,6 +1,5 @@
 # sekulanka.github.io
-<head>
-        <head>
+ <head>
         <title>Świąteczne przepisy</title>
         <meta charset="utf-8">
         <style>
